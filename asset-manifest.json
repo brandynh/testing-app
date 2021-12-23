@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/brandynh/testing-app/static/js/main.67897cff.js",
-    "index.html": "/brandynh/testing-app/index.html",
-    "main.67897cff.js.map": "/brandynh/testing-app/static/js/main.67897cff.js.map"
+    "main.js": "/testing-app/static/js/main.67897cff.js",
+    "index.html": "/testing-app/index.html",
+    "main.67897cff.js.map": "/testing-app/static/js/main.67897cff.js.map"
   },
   "entrypoints": [
     "static/js/main.67897cff.js"
